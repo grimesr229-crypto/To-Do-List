@@ -16,7 +16,8 @@ This app allows users to add, check, and delete tasks, with data stored locally 
 
 ## 📸 Preview
 
-![To-Do List App Screenshot](<img width="1363" height="725" alt="Screenshot 2025-09-17 012148" src="https://github.com/user-attachments/assets/38c61d26-debb-49b2-8968-229e8dd1de12" />
+![To-Do List App Screenshot](<img width="1360" height="721" alt="Screenshot 2025-09-17 012118" src="https://github.com/user-attachments/assets/532cbb9c-2163-432b-8c67-f6ea9207eba9" />
+
 )
 
 *(<img width="1363" height="725" alt="Screenshot 2025-09-17 012148" src="https://github.com/user-attachments/assets/27940544-0826-47f7-a465-0b5466531999" />
